@@ -623,3 +623,6 @@ Podemos ver claramente que la contraseña es bombardinocrocodilo
 
 ## Ejercicio 5
 
+Modifica el ejecutable de serial-check para que acepte el serial pass1234 (tambien conocido como balatrobalatrez)
+
+![alt text](image5.png)
